@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clothing-app-397708",
+  "private_key_id": "5788022966e2d2a53dac7948ce5805e425b7d7f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCl9ukEb4E6WxnH\nvyVdkbu86qZbONrs8hlQAxW9aenzBtfCMtqt7Hi7U0qYNSRCCbQpn37deobT46/1\nWXZz3NfZU4EzSIC9yBJ3x+jo43qfQa5FDnbSK8ob2px6fmn4kCop4lYs9W/Q/sVB\n+sMTrVh+oms+JxCtwAKhe6+hr+IO90rlbwQSZjXKXERXBEQnDcPNImMrr4/0ZGF/\n/T2Dcy/qnRPC12V+w3jFq5hQHCJfTdd/iSmFauvVUcFWtiPkVGKrgYchZdaMu6vk\nWasNee+t4UiilHWhN7yytglhZVLJo//qKwTT+FbhQJto5ucPfgdjI+HG23LQYILk\n4H1NreqbAgMBAAECggEADRnQixPCP7kGmp3xdSbBNch6w/iuT3CiTuPvc2RI83Dh\ngehBxY5FJC8O/woy3S5RlSI3Vtm1NZoOPxqGHzSaVVgiJXTeX3IhAxOPbygweyHU\nKooEbH1zFtUgRQsgPQl5n+od+K6R2mLsxKiRfZwmwC2nXuChOxX3ydzZoF8h7ncL\npSGvdqWRgCWT2M3GAyki/yNLSRyPlhG72UD2X3sKjHjUganwLvmfTPLN4qFD3O1l\nNnPiTSv1GTxIYd3kEWAqXyyNGz51+SURU/vzfV2HiBJXT+pkqhuCeXcqavDpNIpU\n3qUN1sPfzXILsbvHvxJECwPqI9O5/e/9prZuu8trAQKBgQDaDdwsNIgwOfzxmx5I\nrofdq4OemKA3hxpXCYGTY0al3P8qw2d2moCaBAEVQzzzqyJAvMBx6/X+tLA0cN+D\nmf6bAIbgCoMaxelSNydxFDJDApwxch1LQ9h97FXeskdQhmUM5k2ZxRvUFKvIP8pg\n0chuhK86L4Q28T2YtuEDqutfnQKBgQDC2H9ZkNF6deTuhoHAkipHXxDK0ooqHHcT\na45r0bhydOfCNeGXGAgaE6Pn3J3v+xoQgBcyAUMyi3MFVfTyZ68xy6BQI4JX50PY\nLEZxMwcJSnOSEC7jrREH5dUnaayVQkd08jgdrFXaFy21ajFuvkUDoE4hqnLKCnPk\nTkH6DawJlwKBgBkgf76YTxk/lWZB+btmYUGqAgDElbHQX7in38acKgfy73R+D+4a\n37bfv0Az/1IU5l2PYp2+ExrGt4dTem4v0KcL6H7otzLem4Rd1q2xJhmSs2z/OWDy\n8H+SPFLtOEqPMhXKdCbED/DgcOsibq+5fN8/avHJh/LM2cw/Rq6lg3oBAoGAT4hN\nm0KorwL2eoJ+7hr7lPxx/0gnS38o/81UaiBF2Lpta3HQ7nrJu9MugVMlSLLHddrD\nHQ803ancPl5SyKuX8Ix8mJmV98mXgOK5sjUw9xLjz8g5S4f2PrIK6raQ0rAmOM8y\nJrKUrJvvdXCuUtTpmMxTeBx6FIxlt9hVx/rSsWsCgYAWlDuHEsLpnBu/ZAStECaE\nsBXFVPaWBhOC2DN0S1MRFQOVvQ5Nw3gnKowXPFYjyF5s1eIGg4ucmxyPUyQ8sVBi\nrTNPuP/VjG6dC+QKevOhuA6KLuEdezbs4z5U7iapKM/7tJRS/4YHtVZtfu9aav0j\n3l2wX7Vb+vaxuFSdg3LpnA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "clothing-app@clothing-app-397708.iam.gserviceaccount.com",
+  "client_id": "112963596010427675421",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/clothing-app%40clothing-app-397708.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
